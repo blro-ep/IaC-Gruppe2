@@ -37,21 +37,24 @@
 
 
 # Deklarative vs. Imperative Sprachen?
-
 ## Fragen
 ### Wie kommunizieren Menschen im Alltag?
-
+- Beides
 
 ### Gibt es Programmiersprachen welche sowohl deklarativ wie auch imperativ gebraucht werden können?
-
+- Ja
+    - Java Scrip
+    - Python
 
 ### Kann in BASH deklarativ programmiert werden?
-
+- Nein
 
 ### Welcher Teil von SQL ist eine imperative Sprache?
-
+- Creat, Insert Statemant
 
 ### Warum werden einige Sprachen als imperativ und andere als deklarativ bezeichnet?
-
+- Jede Programiersprache ist anders aufgebaut und hat ihre eigene Vorgehensweise für den Lösungsweg.
 
 ### Was sind die sind die Hauptunterschiede zwischen deklartivem und imperativen programmieren?
+- Deklarative --> Es wird das Zielergebnis definiert. Wie dieses erreicht wird, ist nicht relevant.
+- Imperative --> Es wird jeder Schritt definiert, wie ein Ziel erreicht werden soll.
