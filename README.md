@@ -10,7 +10,7 @@
 
 ### Können alle IaC-Tools Konfigurationen nach der Installationen anpassen?
 - Ansible - Communtity Edition
-    - Ja, working idempotent, agent less
+    - Ja, agent less, idempotenz
 - puppet - Community Edition
     - ja, agent auf host
 - Cloud-Init
